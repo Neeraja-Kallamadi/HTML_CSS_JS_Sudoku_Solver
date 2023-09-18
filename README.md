@@ -8,8 +8,8 @@ backtracking algorithm is a crucial component that systematically explores possi
 
 # OUTPUT:
 
-![overview_op](https://github.com/Neeraja-Kallamadi/HTML_CSS_JS_Sudoku_Solver/assets/110168775/2ea04cf0-42d2-44a9-a5ee-54a582e7617a)
+![overview_op](https://github.com/Neeraja-Kallamadi/HTML_CSS_JS_Sudoku_Solver/assets/110168775/8168d46a-b316-469b-981d-127b55bab708)
 
-![getpuzzle_op](https://github.com/Neeraja-Kallamadi/HTML_CSS_JS_Sudoku_Solver/assets/110168775/e171ab78-1998-4d59-b0f9-d8d4a85a2aae)
+![getpuzzle_op](https://github.com/Neeraja-Kallamadi/HTML_CSS_JS_Sudoku_Solver/assets/110168775/7c2a080c-7a06-42e1-b29e-8b570e896fb5)
 
-![solvepuzzle_op](https://github.com/Neeraja-Kallamadi/HTML_CSS_JS_Sudoku_Solver/assets/110168775/cc55fe40-5b0b-4794-8221-48d10379d026)
+![solvepuzzle_op](https://github.com/Neeraja-Kallamadi/HTML_CSS_JS_Sudoku_Solver/assets/110168775/c7a33bba-f4f8-4566-8ee2-70d391329367)
